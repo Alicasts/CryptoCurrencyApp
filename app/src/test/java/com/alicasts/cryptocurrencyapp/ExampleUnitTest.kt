@@ -1,4 +1,4 @@
-package com.alicasts.myapplication
+package com.alicasts.cryptocurrencyapp
 
 import org.junit.Test
 

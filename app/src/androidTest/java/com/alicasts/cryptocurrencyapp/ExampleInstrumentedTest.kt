@@ -1,4 +1,4 @@
-package com.alicasts.myapplication
+package com.alicasts.cryptocurrencyapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

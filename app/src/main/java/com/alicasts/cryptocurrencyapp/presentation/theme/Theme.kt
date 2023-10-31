@@ -1,4 +1,4 @@
-package com.alicasts.myapplication.ui.theme
+package com.alicasts.cryptocurrencyapp.presentation.theme
 
 import android.app.Activity
 import android.os.Build
