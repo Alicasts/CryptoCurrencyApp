@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Todo"
+rootProject.name = "CryptoCurrencyApp"
 include(":app")
  
